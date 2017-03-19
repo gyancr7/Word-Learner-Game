@@ -1,3 +1,3 @@
 ## Word Learner
 
-Improve your grammar vocab skills while playing.
+Improve your grammar and vocab skills while playing.
